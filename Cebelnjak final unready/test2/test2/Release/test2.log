@@ -1,0 +1,28 @@
+﻿  Net.cpp
+F:\VS community projects\test2\test2\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\test2\test2\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\test2\test2\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\test2\test2\pch.h(18): message : see previous definition of 'debugx'
+  NetCom.cpp
+F:\VS community projects\test2\test2\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\test2\test2\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\test2\test2\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\test2\test2\pch.h(18): message : see previous definition of 'debugx'
+  TCPContex.cpp
+F:\VS community projects\test2\test2\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\test2\test2\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\test2\test2\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\test2\test2\pch.h(18): message : see previous definition of 'debugx'
+F:\VS community projects\test2\test2\TCPContex.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+  test2.cpp
+F:\VS community projects\test2\test2\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\test2\test2\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\test2\test2\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\test2\test2\pch.h(18): message : see previous definition of 'debugx'
+F:\VS community projects\test2\test2\test2.cpp(29,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+F:\VS community projects\test2\test2\Net.cpp(25): warning C4715: 'net::Net::Create': not all control paths return a value
+  All 399 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  test2.vcxproj -> F:\VS community projects\test2\Release\test2.exe

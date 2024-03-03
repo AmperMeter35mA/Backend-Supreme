@@ -1,0 +1,19 @@
+﻿  main.cpp
+F:\VS community projects\test2\test2\pch.h(32,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\test2\test2\pch.h(26): message : see previous definition of 'debug'
+F:\VS community projects\test2\test2\pch.h(41,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\test2\test2\pch.h(28): message : see previous definition of 'debugx'
+F:\VS community projects\test2\test2\pch.h(47,1): warning C4005: 'assert': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\assert.h(26): message : see previous definition of 'assert'
+F:\VS community projects\test2\test2\main.cpp(22,20): warning C4244: 'return': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\VS community projects\test2\test2\main.cpp(79,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\VS community projects\test2\test2\main.cpp(296,1): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+F:\VS community projects\test2\test2\main.cpp(347,158): warning C4390: ';': empty controlled statement found; is this the intent?
+F:\VS community projects\test2\test2\main.cpp(479,110): warning C4018: '>=': signed/unsigned mismatch
+     Creating library F:\VS community projects\test2\x64\Release\test2.lib and object F:\VS community projects\test2\x64\Release\test2.exp
+  Generating code
+  1 of 567 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  test2.vcxproj -> F:\VS community projects\test2\x64\Release\test2.exe

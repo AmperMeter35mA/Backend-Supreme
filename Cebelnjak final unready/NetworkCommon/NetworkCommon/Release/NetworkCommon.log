@@ -1,0 +1,28 @@
+﻿  Net.cpp
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(18): message : see previous definition of 'debugx'
+  main.cpp
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(18): message : see previous definition of 'debugx'
+F:\VS community projects\NetworkCommon\NetworkCommon\main.cpp(30,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  NetCom.cpp
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(18): message : see previous definition of 'debugx'
+  TCPContex.cpp
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(18): message : see previous definition of 'debugx'
+F:\VS community projects\NetworkCommon\NetworkCommon\TCPContex.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+F:\VS community projects\NetworkCommon\NetworkCommon\Net.cpp(25): warning C4715: 'net::Net::Create': not all control paths return a value
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NetworkCommon.vcxproj -> F:\VS community projects\NetworkCommon\Release\NetworkCommon.exe

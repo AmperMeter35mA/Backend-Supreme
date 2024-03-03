@@ -1,0 +1,6 @@
+﻿  protocol.cpp
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\NetworkCommon\NetworkCommon\pch.h(18): message : see previous definition of 'debugx'
+  NetworkCommon.vcxproj -> F:\VS community projects\NetworkCommon\Debug\NetworkCommon.exe

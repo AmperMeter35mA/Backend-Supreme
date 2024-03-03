@@ -1,0 +1,3 @@
+﻿  NamedPipes2.cpp
+F:\VS community projects\NamedPipes2\NamedPipes2\NamedPipes2.cpp(20,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+  NamedPipes2.vcxproj -> F:\VS community projects\NamedPipes2\Debug\NamedPipes2.exe

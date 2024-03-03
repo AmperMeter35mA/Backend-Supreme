@@ -1,0 +1,7 @@
+﻿  test2.cpp
+F:\VS community projects\test2\test2\pch.h(22,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\test2\test2\pch.h(16): message : see previous definition of 'debug'
+F:\VS community projects\test2\test2\pch.h(31,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\test2\test2\pch.h(18): message : see previous definition of 'debugx'
+F:\VS community projects\test2\test2\test2.cpp(38,27): warning C4018: '<': signed/unsigned mismatch
+  test2.vcxproj -> F:\VS community projects\test2\Debug\test2.exe

@@ -1,0 +1,12 @@
+﻿  main.cpp
+F:\VS community projects\test2\test2\pch.h(27,1): warning C4005: 'debug': macro redefinition
+F:\VS community projects\test2\test2\pch.h(21): message : see previous definition of 'debug'
+F:\VS community projects\test2\test2\pch.h(36,1): warning C4005: 'debugx': macro redefinition
+F:\VS community projects\test2\test2\pch.h(23): message : see previous definition of 'debugx'
+F:\VS community projects\test2\test2\pch.h(42,1): warning C4005: 'assert': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\assert.h(39): message : see previous definition of 'assert'
+F:\VS community projects\test2\test2\main.cpp(132,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\VS community projects\test2\test2\main.cpp(175,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+F:\VS community projects\test2\test2\main.cpp(571,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+F:\VS community projects\test2\test2\main.cpp(650,26): warning C4834: discarding return value of function with 'nodiscard' attribute
+  test2.vcxproj -> F:\VS community projects\test2\x64\Debug\test2.exe

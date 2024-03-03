@@ -1,0 +1,14 @@
+﻿  MySqlConn.cpp
+MySqlConn.obj : error LNK2019: unresolved external symbol _mysql_init@4 referenced in function _main
+MySqlConn.obj : error LNK2019: unresolved external symbol _mysql_real_connect@32 referenced in function _main
+mysqlclient.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+libmysql.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\mysqlrouter_lib.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\mysqlrouter_io_component.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\mysqlrouter_http_auth_realm.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\mysqlrouter_http_auth_backend.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\mysqlrouter_http.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\mysqlharness_tls.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\mysqlharness_stdx.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\depend\mysql\lib\libprotobuf-lite.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+F:\VS community projects\MySqlConn\Debug\MySqlConn.exe : fatal error LNK1120: 2 unresolved externals
